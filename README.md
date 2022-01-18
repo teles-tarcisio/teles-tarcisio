@@ -5,7 +5,7 @@
     and maybe even working with Electric Vehicles applications/integrations/hardware.
 - 📫 How to reach me
     * +55 81 991-689-732 / +55 81 986-269-980
-    * [ https://www.t.me/TarcisioTeles ] [ tfst@ecomp.poli.br ] [tarcisio.selet@gmail.com ]
+    * [ https://www.t.me/TarcisioTeles ] [tarcisio.selet@gmail.com ] [ tfst@ecomp.poli.br ] 
 
 <!---
 teles-tarcisio/teles-tarcisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
