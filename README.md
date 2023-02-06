@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Engineering, Web Services, Linux, Embedded Devices/Electronics, IoT, Cloud Computing, Bicycles, Motorbikes, Running, Coffee and some more things in the professional and personal areas. Also, I enjoy using my abilities to make useful and non-complicated solutions for common people like me
 
-- 🌱 I’m currently finishing a bootcamp on Web Development, made by [Driven Education](https://www.driven.com.br) <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>, so I can become a Fullstack Web Developer =]
+- 🌱 I’ve finished a bootcamp on Web Development, made by [Driven Education](https://www.driven.com.br) <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>, and so I'm on the way to work as a Fullstack Web Developer =]
 
 &nbsp;
 
